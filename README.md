@@ -1,5 +1,7 @@
-# Machine_Learning_And_Statistics Project by Trish O'Grady
+# Machine_Learning_And_Statistics 
 
-***
+By Trish O'Grady
 
-Setup and making my first commit to github
+## How to use this Repository
+
+Step 1. Install Anaconda
